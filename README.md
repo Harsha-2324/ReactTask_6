@@ -53,17 +53,17 @@
 
 ## Usage
 
-- 1. Browse the home page to view Employee data.
+-  Browse the home page to view Employee data.
 
-- 2. Click "Create" to add a Employee Details to the Dashboard.
+- Click "Create" to add a Employee Details to the Dashboard.
 
-- 3. Navigate to the Dashboard page to manage your Employee contents.
+- Navigate to the Dashboard page to manage your Employee contents.
  
-- 4. Edit Employee using the "Edit" button.
+- Edit Employee using the "Edit" button.
   
-- 5. Click "Delete" to remove an Employee from the Dashboard.
+- Click "Delete" to remove an Employee from the Dashboard.
  
-- 6. Click in the Dashboard the Home Page.
+- Click in the Dashboard the Home Page.
 
 
 ## Technologies Used
