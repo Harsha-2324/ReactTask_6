@@ -17,9 +17,9 @@
 ## Features
 
 - Employee Details display using Axios Fetch API.
-- Functionality: create and delete people, edit people data.
+- Functionality: create and delete people, edit employee data.
 - Navigation between home, edit and create pages.
-- People data based on CRUD Operations performed.
+- Employee data based on CRUD Operations performed.
 
 ## Getting Started
 
